@@ -146,3 +146,38 @@ Conclusion
 
 This project provides a basic but complete implementation of a workflow builder with frontend and backend integration.
 It focuses on clarity, simplicity, and meeting the functional requirements of the assignment.
+
+## Screenshots
+
+## Screenshots
+
+### Workflow Canvas
+Drag-and-drop interface to add Input and Output nodes on the canvas.
+Nodes can be positioned freely and connected to define the workflow.
+
+![Workflow Canvas](./screenshots/canvas.png)
+
+---
+
+### Input to Output Data Flow
+Text entered in the Input node is propagated to the connected Output node,
+demonstrating unidirectional data flow.
+
+![Input Output Flow](./screenshots/data-flow.png)
+
+---
+
+### Save Workflow
+Workflows can be validated and saved using the backend API.
+A confirmation message is shown after a successful save.
+
+![Save Workflow](./screenshots/save.png)
+
+---
+
+### Load Workflow
+Previously saved workflows can be loaded back onto the canvas.
+The nodes and connections are restored correctly.
+
+![Load Workflow](./screenshots/load.png)
+
