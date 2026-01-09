@@ -155,7 +155,8 @@ It focuses on clarity, simplicity, and meeting the functional requirements of th
 Drag-and-drop interface to add Input and Output nodes on the canvas.
 Nodes can be positioned freely and connected to define the workflow.
 
-![Workflow Canvas](./screenshots/canvas.png)
+
+<img width="1899" height="922" alt="Screenshot 2026-01-09 191710" src="https://github.com/user-attachments/assets/b85d8fcd-3034-4213-be53-73bec2e55bea" />
 
 ---
 
@@ -163,7 +164,8 @@ Nodes can be positioned freely and connected to define the workflow.
 Text entered in the Input node is propagated to the connected Output node,
 demonstrating unidirectional data flow.
 
-![Input Output Flow](./screenshots/data-flow.png)
+<img width="1875" height="925" alt="Screenshot 2026-01-09 191803" src="https://github.com/user-attachments/assets/8213f65a-43a6-48e6-b991-bffe871e3612" />
+
 
 ---
 
@@ -171,7 +173,8 @@ demonstrating unidirectional data flow.
 Workflows can be validated and saved using the backend API.
 A confirmation message is shown after a successful save.
 
-![Save Workflow](./screenshots/save.png)
+<img width="1880" height="927" alt="Screenshot 2026-01-09 191819" src="https://github.com/user-attachments/assets/a5c9f47a-4f40-4f17-aac6-d8aef04f44be" />
+
 
 ---
 
@@ -179,5 +182,6 @@ A confirmation message is shown after a successful save.
 Previously saved workflows can be loaded back onto the canvas.
 The nodes and connections are restored correctly.
 
-![Load Workflow](./screenshots/load.png)
+<img width="1886" height="929" alt="Screenshot 2026-01-09 191838" src="https://github.com/user-attachments/assets/baf3741c-95e0-484d-9a33-54d3836d358d" />
+
 
